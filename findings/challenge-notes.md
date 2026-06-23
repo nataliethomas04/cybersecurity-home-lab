@@ -1,34 +1,24 @@
 # OWASP Juice Shop Findings
 
-## Challenge 1 - Login as Administrator
+## Challenge 1 - Login Page Exploration
 
-### Objective
-Complete the "Login Admin" challenge.
+Date: June 23, 2026
 
-### Method
-Attempted common default credentials on the login page.
+Objective:
+Explore the application and identify authentication functionality.
 
-### Result
-Successfully authenticated as the administrator account.
+Actions Taken:
+- Opened Juice Shop
+- Navigated to Account > Login
+- Examined login form fields
 
-### Skills Practiced
-- Authentication testing
-- Web application security assessment
+Observations:
+- Application provides email/password authentication
+- Forgot Password functionality exists
 
-### Screenshot
-screenshots/admin-login-success.png
+Skills Practiced:
+- Web application reconnaissance
+- Application mapping
 
-## Challenge 2 - Confidential Document
-
-### Objective
-Locate an exposed confidential document.
-
-### Method
-Reviewed publicly accessible resources and application content.
-
-### Result
-Successfully located the document and completed the challenge.
-
-### Skills Practiced
-- Information disclosure testing
-- Reconnaissance
+Status:
+Completed
