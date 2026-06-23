@@ -22,3 +22,26 @@ Skills Practiced:
 
 Status:
 Completed
+
+## Challenge 2 - Registration Analysis
+
+Date: June 23, 2026
+
+Objective:
+Explore user registration functionality.
+
+Actions Taken:
+- Opened registration page
+- Reviewed required fields
+- Created test account
+
+Observations:
+- Email validation present
+- Password complexity requirements displayed
+
+Skills Practiced:
+- Application enumeration
+- Authentication analysis
+
+Status:
+Completed
