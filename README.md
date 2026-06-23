@@ -68,6 +68,7 @@ http://localhost:3000
 * Basic DevOps workflow
 * Technical documentation
 
+
 ## Project Outcomes
 
 * Successfully deployed OWASP Juice Shop using Docker.
